@@ -1,5 +1,12 @@
 ﻿# UNCTAD Digital Services Trade Panel (2010–2023 / 2025 Edition)
 
+## Citation & DOI
+For documentation, methodology, and derived analyses, see:
+https://devstackph.com/unctad-digital-services-trade-panel/
+
+This dataset is archived on Zenodo with a permanent DOI:
+https://doi.org/10.5281/zenodo.17971395
+
 ## Overview
 This dataset provides a cleaned and structured panel of **country–year digitally-deliverable services trade (exports and imports, USD millions)**, derived from official source data published by **UN Trade and Development (UNCTAD)**.
 
@@ -66,7 +73,7 @@ If you use this dataset, please cite:
 
 > DevStackPH (2025). *UNCTAD Digital Services Trade Panel (2010–2023 / 2025 Edition).* GitHub repository: https://github.com/jeancecilia/unctad-digital-services-trade-panel (accessed YYYY-MM-DD).
 
-DOI: (not yet assigned)
+DOI: https://doi.org/10.5281/zenodo.17971395
 
 ---
 
